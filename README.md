@@ -2,7 +2,7 @@
 
 Esta es una comunidad de desarrolladores dominicanos para conocer quiénes somos, en qué estamos, y de paso compartir temas, ayudarnos unos a otros a solucionar problemas que no encontremos en MSDN o StackOverflow, como por ejemplo problemas relevantes al desarrollo local, y publicar ofertas de trabajo.
 
-De todos nosotros depende que sea efectivo el manejo de nuestra comunidad.
+De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para esto tenemos las siguientes reglas:
 
 # Ingreso de miembros nuevos
 
