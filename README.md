@@ -6,7 +6,7 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 # Ingreso de miembros nuevos
 
-- Por lo general preferimos ingresar personas para las cuales el tema del desarrollo de software en República Dominicana es relevante, así que ingresamos con cierta rapidez a personas que respondan las preguntas que aparecen al solicitar ingreso al grupo, o cuyo perfil público lo indique de alguna manera.
+- Por lo general preferimos ingresar personas para las cuales el tema del desarrollo de software en República Dominicana es relevante, así que ingresamos con cierta rapidez a personas que respondan las preguntas que aparecen al solicitar ingreso al grupo, o cuyo perfil público lo indique interés en el desarrollo de software y lazos con RD.
 
 - Evitamos ingresar personas que usen pseudónimos en vez de nombres reales para mitigar el riesgo de ingresar trolls, spammers anónimos, o gente que solo entra porque Facebook le sugirió el grupo aleatoriamente y presionó el botón de ingresar. Si te preocupa mantener tu perfil privado, puedes mandarle un mensaje a los administradores.
 
@@ -14,11 +14,11 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 - El tema de cualquier publicación debe ser de desarrollo. Somos un grupo de Desarrolladores de Software (Developers).
 
-- Se permiten de vez en cuando las publicaciones conocidas como [“off-topic”](https://es.wikipedia.org/wiki/Off_topic) u “OT”, que no son puntualmente de desarrollo pero pueden ser consideradas relevantes para la temática del grupo. Esto incluye temas más generales como emprendimiento, manejo de proyectos, discusión de tecnologías que no mencionen desarrollo, entre otros. 
+- Se permiten de vez en cuando las publicaciones conocidas como [“off-topic”](https://es.wikipedia.org/wiki/Off_topic) u “OT”, que no son puntualmente de desarrollo pero pueden ser consideradas relevantes para la temática del grupo. Esto incluye temas más generales como emprendimiento, manejo de proyectos, discusión de otras áreas de tecnología, entre otros. 
 
 - Solo se permite un off-topic por persona por día, y solo se permiten tres publicaciones off-topic en el mismo día, o a discreción de los administradores, dependiendo de la actividad del grupo en ese día. Toda publicación off-topic debe llevar un hashtag #offtopic u #OT.
 
-- No están permitidos los memes, aunque estos sean de desarrollo. Para botar el golpe, hacemos una excepción **los viernes y solo los viernes**, y se permite publicar un ‪#memeloper‬ por persona. La publicación debe estar identificada como de “Viernes de #memelopers”, debe ser relevante a desarrollo, cumplir con las demás reglas, y no debe ser un meme que ya haya sido publicado en el grupo recientemente.
+- No están permitidos los memes, aunque estos sean de desarrollo. Para botar el golpe, hacemos una excepción **los viernes y solo los viernes**, y se permite publicar un ‪#memeloper‬ por persona. La publicación debe estar identificada como de “Viernes de #memelopers”, debe ser relevante a desarrollo, cumplir con las demás reglas, y no debe ser un meme que haya sido publicado en el grupo recientemente.
 
 - No deben tocarse temas controversiales que tiendan a prestarse a argumentos innecesarios entre miembros, como religión, política o deportes. Estos son temas que no se permitirán aunque quieran disfrazarlos como temas de desarrollo. En caso de que en una publicación surja una discusión innecesaria de estas, la publicación puede ser cerrada o eliminada por uno de los administradores.
 
@@ -30,7 +30,7 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 - Todo lo que sea considerado [SPAM](https://es.wikipedia.org/wiki/Spam) será removido por los administradores.
 
-- No permitimos ventas de artículos de ningún tipo, ni auto-promoción de marcas o compañías.
+- No permitimos ventas de artículos de ningún tipo, ni promoción de productos, servicios, marcas o compañías.
 
 - No permitimos publicar promociones basadas en popularidad, como concursos donde gana la persona con más “Likes” o votos.
 
@@ -44,11 +44,11 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 - Todo enlace compartido debe venir acompañado de una impresión personal. Qué piensas, por qué lo compartes, o qué sería de interés para el grupo en dicho material. No te limites a copiar y pegar el enlace.
 
-- Si quieres puedes hacer una breve búsqueda para asegurarte que no se haya publicado ese mismo enlace recientemente. Si el mismo enlace había sido publicado previamente, la publicación más reciente será eliminada.
+- Si un mismo enlace es publicado múltiples veces en un período corto, se eliminarán todas las publicaciones similares con excepción de la más antigua. Utiliza la función de búsqueda antes de publicar un enlace que pudiera haber sido compartido recientemente en el grupo.
 
 - Los grupos de facebook no son chats, no publiques múltiples comentarios consecutivos de una sola línea en una publicación. Eso desencadena múltiples notificaciones a los miembros del grupo que participan en esa conversación.
 
-- Para ofertas de trabajo, recomendamos que sean relevantes para la temática del grupo: de desarrollo de software para personas que residen en República Dominicana, sea trabajo presencial, remoto o con traslado al exterior.
+- Para ofertas de trabajo, recomendamos que sean relevantes para la temática del grupo: de desarrollo de software, y asequibles para personas que residen en República Dominicana, sea trabajo presencial, remoto o con patrocinio para transladarse al exterior.
 
 - Si tienes una duda, haz la pregunta completa. No te limites a preguntar que si “hay alguien que sepa X o Y”. Si formulas tu pregunta completa, tendrás mayor oportunidad de que alguien responda tu duda. Si prefieres resolver tu problema en privado, menciona eso en tu publicación.
 
