@@ -36,7 +36,7 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 - Permitimos que organizadores de eventos y cursos que cobren dinero con fines de lucro los anuncien en el grupo, siempre y cuando ofrezcan un descuento a los miembros de la comunidad.
 
-- Permitimos compartir páginas web y apps propias en el grupo si y solo si se comparten con el fin de que la comunidad evalúe la página o aplicación para proveer opiniones, críticas y comentarios desde el punto de vista de un desarrollador de software. Si la página o app es publicada solo con el fin de promoverla, la publicación será removida.
+- Permitimos compartir páginas web y aplicaciones móviles propias en el grupo si y solo si se comparten con el fin de que la comunidad evalúe la página o app para proveer opiniones, críticas y comentarios desde el punto de vista de un desarrollador de software. Si la página o app es publicada solo con el fin de promoverla, la publicación será removida.
 
 - Si un miembro comparte un enlace de su propio blog o canal de youtube, y el contenido no es puntualmente de desarrollo de software, es un contenido [“clickbait”](https://es.wikipedia.org/wiki/Clickbait), o es una publicación copiada de otra fuente (cuando bien pudiera compartir la fuente original), la publicación será considerada como spam. La intención es prevenir una sobrecarga de artículos de personas que solo buscan auto-promoverse y/o generar visitas en sus páginas personales o comerciales.
 
