@@ -6,7 +6,7 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 # Ingreso de miembros nuevos
 
-- Por lo general preferimos ingresar personas para las cuales el tema del desarrollo de software en República Dominicana es relevante, así que ingresamos con cierta rapidez a personas que respondan las preguntas que aparecen al solicitar ingreso al grupo, o cuyo perfil público indique interés en el desarrollo de software y lazos con RD.
+- Por lo general preferimos ingresar personas para las cuales el tema del desarrollo de software en República Dominicana es relevante, así que ingresamos con preferencia a personas que muestren interés en el desarrollo de software y tengan lazos con RD, indicado a través de las preguntas presentadas al solicitar ingreso y/o a través de la información pública en su perfil de Facebook.
 
 - Evitamos ingresar personas que usen pseudónimos en vez de nombres reales para mitigar el riesgo de ingresar trolls, spammers anónimos, o gente que solo entra porque Facebook le sugirió el grupo aleatoriamente y presionó el botón de ingresar. Si te preocupa mantener tu perfil privado, puedes mandarles un mensaje a los administradores.
 
