@@ -8,7 +8,7 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 * Por lo general preferimos ingresar personas para las cuales el tema del desarrollo de software en República Dominicana es relevante, así que ingresamos con preferencia a personas que muestren interés en el desarrollo de software y tengan lazos con RD, indicado a través de las preguntas presentadas al solicitar ingreso y/o a través de la información pública en su perfil de Facebook.
 
-* Evitamos ingresar personas que usen pseudónimos en vez de nombres reales para mitigar el riesgo de ingresar trolls, spammers anónimos, o gente que solo entra porque Facebook le sugirió el grupo aleatoriamente y presionó el botón de ingresar. Si te preocupa mantener tu perfil privado, puedes mandarles un mensaje a los administradores.
+* Evitamos ingresar personas que usen pseudónimos en vez de nombres reales para mitigar el riesgo de ingresar trolls, spammers anónimos, o gente que solo entra porque Facebook le sugirió el grupo aleatoriamente y presionó el botón de ingresar. Si te preocupa mantener tu perfil privado, puedes enviar un mensaje a los administradores.
 
 # Publicaciones y comentarios relevantes
 
@@ -34,17 +34,17 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 * No permitimos publicar promociones basadas en popularidad, como concursos donde gana la persona con más “Likes” o votos.
 
-* Permitimos encuestas si y solo si son relevantes a desarrollo de software.
+* Permitimos encuestas y solicitudes de donaciones **si y solo si** son relevantes a desarrollo de software.
 
 * Permitimos que organizadores de eventos y cursos de desarrollo de software que cobren dinero con fines de lucro los anuncien en el grupo, siempre y cuando ofrezcan un descuento a los miembros de la comunidad.
 
-* Permitimos compartir páginas web y aplicaciones móviles propias en el grupo si y solo si se comparten con el fin de que la comunidad evalúe la página o app para proveer opiniones, críticas y comentarios desde el punto de vista de un desarrollador de software. Si la página o app es publicada solo con el fin de promoverla, la publicación será removida.
+* Permitimos compartir páginas web y aplicaciones móviles propias en el grupo **si y solo si** se comparten con el fin de que la comunidad evalúe la página o app para proveer opiniones, críticas y comentarios desde el punto de vista de un desarrollador de software. Si la página o app es publicada solo con el fin de promoverla, la publicación será removida.
     * Bien: "desarrollé está app por X razón, me gustaría que la evaluaran para ver qué opinan y saber si necesita alguna mejora"
-    * Mal: "compartan esta app con sus amigos, apoyen el talento dominicano"
+    * Mal: "compartan esta app con sus amigos, apoyemos al talento dominicano"
 
 * Si un miembro comparte un enlace de su propio blog o canal de youtube, y el contenido no es puntualmente de desarrollo de software, es un contenido [“clickbait”](https://es.wikipedia.org/wiki/Clickbait), o es una publicación copiada de otra fuente (cuando bien se hubiera podido compartir la fuente original), la publicación será considerada como spam. La intención es prevenir una sobrecarga de artículos de personas que solo buscan auto-promoverse y/o generar visitas en sus páginas personales o comerciales.
 
-* Si no sabes si una publicación que quieres compartir sería considerada spam, eres libre de contactar a los administradores. En circunstancias extraordinarias un administrador puede aprobar una publicación que de otro modo sería considerada spam.
+* Si no sabes si una publicación que quieres compartir sería considerada spam, eres libre de contactar a los administradores. Los administradores te orientarán si lo que tienes la intención de publicar cumple las reglas del grupo. En circunstancias muy extraordinarias un administrador puede aprobar una publicación que de otro modo sería considerada spam.
 
 # Etiqueta al crear publicaciones y comentarios
 
