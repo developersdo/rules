@@ -44,7 +44,7 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 * Si un miembro comparte un enlace de su propio blog o canal de youtube, y el contenido no es puntualmente de desarrollo de software, es un contenido [“clickbait”](https://es.wikipedia.org/wiki/Clickbait), o es una publicación copiada de otra fuente (cuando bien se hubiera podido compartir la fuente original), la publicación será considerada como spam. La intención es prevenir una sobrecarga de artículos de personas que solo buscan auto-promoverse y/o generar visitas en sus páginas personales o comerciales.
 
-* Si no sabes si una publicación que quieres compartir sería considerada spam, eres libre de contactar a los administradores. Los administradores te orientarán si lo que tienes la intención de publicar cumple las reglas del grupo. En circunstancias muy extraordinarias un administrador puede aprobar una publicación que de otro modo sería considerada spam.
+* Si no sabes si una publicación que quieres compartir sería considerada spam, eres libre de contactar a los administradores. Los administradores te orientarán si lo que tienes la intención de publicar cumple con las reglas del grupo. En circunstancias muy extraordinarias un administrador puede aprobar una publicación que de otro modo sería considerada spam.
 
 # Etiqueta al crear publicaciones y comentarios
 
