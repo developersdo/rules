@@ -34,9 +34,13 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 * No permitimos publicar promociones basadas en popularidad, como concursos donde gana la persona con más “Likes” o votos.
 
+* Permitimos encuestas si y solo si son relevantes a desarrollo de software.
+
 * Permitimos que organizadores de eventos y cursos de desarrollo de software que cobren dinero con fines de lucro los anuncien en el grupo, siempre y cuando ofrezcan un descuento a los miembros de la comunidad.
 
 * Permitimos compartir páginas web y aplicaciones móviles propias en el grupo si y solo si se comparten con el fin de que la comunidad evalúe la página o app para proveer opiniones, críticas y comentarios desde el punto de vista de un desarrollador de software. Si la página o app es publicada solo con el fin de promoverla, la publicación será removida.
+    * Bien: "desarrollé está app por X razón, me gustaría que la evaluaran para ver qué opinan y saber si necesita alguna mejora"
+    * Mal: "compartan esta app con sus amigos, apoyen el talento dominicano"
 
 * Si un miembro comparte un enlace de su propio blog o canal de youtube, y el contenido no es puntualmente de desarrollo de software, es un contenido [“clickbait”](https://es.wikipedia.org/wiki/Clickbait), o es una publicación copiada de otra fuente (cuando bien se hubiera podido compartir la fuente original), la publicación será considerada como spam. La intención es prevenir una sobrecarga de artículos de personas que solo buscan auto-promoverse y/o generar visitas en sus páginas personales o comerciales.
 
