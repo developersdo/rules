@@ -26,6 +26,19 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 
 * No se permite compartir o distribuir material pirateado.
 
+# Sobre conducta y troleo
+
+* No deben faltarse el respeto ni usar palabras obscenas para referirse a otros compañeros del grupo.
+
+* No se tolerarán el acoso sexual ni las amenazas a otras personas del grupo.
+    * Nota: Nosotros solamente podemos moderar el contenido publicado puntualmente en el grupo. Para interacciones en otros medios, favor contactar a las autoridades correspondientes.
+
+* Eviten el relajo excesivo que pueda entenderse y/o convertirse en falta de profesionalismo.
+
+* El [trolling](https://es.wikipedia.org/wiki/Trol_(Internet)) se permite en cierta medida, pero **debes ganarte el derecho**. Solo se permite el troleo de parte de gente que haga aportes positivos frecuentes a la comunidad. Algunas cosas que son consideradas aportes positivos son: hacer publicaciones útiles, ayudar a los miembros nuevos y actuales, compartir código open source, y participar en los eventos de las comunidades locales de desarrollo.
+
+* Aquellos que hagan trolling sin haberse ganado el derecho a hacerlo pueden ser expulsados del grupo a discreción de los administradores.
+
 # Sobre ventas, promociones y spam
 
 * Todo lo que sea considerado [SPAM](https://es.wikipedia.org/wiki/Spam) será removido por los administradores.
@@ -61,13 +74,3 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 * Si compartes código, por favor no pegues el código directamente en los comentarios de facebook, ya que Facebook no toma en cuenta la indentación del código. Mejor utiliza https://gist.github.com para compartir el código con un formato legible.
 
 * Si ves una publicación en la que han pasado más de dos semanas desde la última vez que estuvo activa, evita hacerle un comentario nuevo a menos que sea tan relevante para la discusión que vale la pena revivirla.
-
-# Sobre conducta y troleo
-
-* No deben faltarse el respeto ni usar palabras obscenas para referirse a otros compañeros del grupo.
-
-* Eviten el relajo excesivo que pueda entenderse y/o convertirse en falta de profesionalismo.
-
-* El [trolling](https://es.wikipedia.org/wiki/Trol_(Internet)) se permite en cierta medida, pero **debes ganarte el derecho**. Solo se permite el troleo de parte de gente que haga aportes positivos frecuentes a la comunidad. Algunas cosas que son consideradas aportes positivos son: hacer publicaciones útiles, ayudar a los miembros nuevos y actuales, compartir código open source, y participar en los eventos de las comunidades locales de desarrollo.
-
-* Aquellos que hagan trolling sin haberse ganado el derecho a hacerlo pueden ser expulsados del grupo a discreción de los administradores.
