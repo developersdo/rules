@@ -31,7 +31,7 @@ De todos nosotros depende que sea efectivo el manejo de nuestra comunidad. Para 
 * No deben faltarse el respeto ni usar palabras obscenas para referirse a otros compañeros del grupo.
 
 * No se tolerarán el acoso sexual ni las amenazas a otras personas del grupo.
-    * Nota: Nosotros solamente podemos moderar el contenido publicado puntualmente en el grupo. Para interacciones en otros medios, favor contactar a las autoridades correspondientes.
+    * Nota: Nosotros solamente podemos moderar el contenido publicado puntualmente en el grupo. Para reportar interacciones en otros medios, favor contactar a las autoridades correspondientes.
 
 * Eviten el relajo excesivo que pueda entenderse y/o convertirse en falta de profesionalismo.
 
